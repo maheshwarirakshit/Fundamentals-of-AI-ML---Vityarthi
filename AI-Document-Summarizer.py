@@ -2,7 +2,7 @@ import os
 import pathlib
 import google.generativeai as genai
 
-GEMINI_API_KEY = "AIzaSyDekJaZCBMNPxgGagBaqdH08f52getRJ9w"
+GEMINI_API_KEY = "Enter-your-Gemini-API-Key"
 
 OUTPUT_FOLDER = r"Enter-your-output-folder-path"
 # SETUP
