@@ -4,8 +4,7 @@ import google.generativeai as genai
 
 GEMINI_API_KEY = "AIzaSyDekJaZCBMNPxgGagBaqdH08f52getRJ9w"
 
-OUTPUT_FOLDER = r"C:\Users\Rakshit Maheshwari\Desktop\New folder (5)\ai-document-summarizer\output"
-
+OUTPUT_FOLDER = r"Enter-your-output-folder-path"
 # SETUP
 
 genai.configure(api_key=GEMINI_API_KEY)
