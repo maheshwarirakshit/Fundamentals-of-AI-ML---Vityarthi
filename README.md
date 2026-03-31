@@ -65,7 +65,7 @@ GEMINI_API_KEY = "AIzaSyDekJaZCBMNPxgGagBaqdH08f52getRJ9w"
 with your actual key:
 
 ```python
-GEMINI_API_KEY = "AIzaSyDekJaZCBMNPxgGagBaqdH08f52getRJ9w"
+GEMINI_API_KEY = "AIza..."
 ```
 
 ---
