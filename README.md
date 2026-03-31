@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ### 4. Add Your API Key
 
-Open `summarizer.py` and replace the placeholder on line 9:
+Open `AI-Document-Summarizer.py` and replace the placeholder on line 9:
 
 ```python
 GEMINI_API_KEY = "AIzaSyDekJaZCBMNPxgGagBaqdH08f52getRJ9w"
@@ -79,7 +79,7 @@ Copy any `.pdf` or `.txt` files into the `input/` folder.
 ### Step 2 — Run the script
 
 ```bash
-python summarizer.py
+python AI-Document-Summarizer.py
 ```
 
 ### Step 3 — Choose summary length
@@ -142,8 +142,9 @@ longitudinal study across five cities, surveying over 3,000 participants...
 - [Google Gemini API](https://ai.google.dev/)
 - [pdfplumber](https://github.com/jsvine/pdfplumber)
 
-Rakshit Maheshwari
 
-25BCE10162
+#Rakshit Maheshwari
 
-VIT Bhopal University
+#25BCE10162
+
+#VIT Bhopal University
