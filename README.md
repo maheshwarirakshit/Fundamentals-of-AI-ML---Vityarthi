@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ### 4. Add Your API Key
 
-Open `AI-Document-Summarizer.py` and replace the placeholder on line 9:
+Open `AI-Document-Summarizer.py` and replace the placeholder on line 5:
 
 ```python
 GEMINI_API_KEY = "AIzaSyDekJaZCBMNPxgGagBaqdH08f52getRJ9w"
