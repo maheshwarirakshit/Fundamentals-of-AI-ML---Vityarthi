@@ -143,8 +143,6 @@ longitudinal study across five cities, surveying over 3,000 participants...
 - [pdfplumber](https://github.com/jsvine/pdfplumber)
 
 
-# Rakshit Maheshwari
-
-# 25BCE10162
-
-# VIT Bhopal University
+Rakshit Maheshwari
+25BCE10162
+VIT Bhopal University
